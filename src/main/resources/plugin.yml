@@ -19,3 +19,7 @@ commands:
     permission: lpcookbook.setgroup
   lpcookbook-setprefix:
     permission: lpcookbook.setprefix
+  lpcookbook-addpermissioncontext:
+    permission: lpcookbook.addpermissioncontext
+  lpcookbook-getexpirery:
+    permission: lpcookbook.getexpirery
